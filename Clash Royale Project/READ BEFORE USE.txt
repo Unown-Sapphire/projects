@@ -1,0 +1,11 @@
+!-NOTE BEFORE USAGE OF THIS PROGRAM-!
+ 
+This is an open source program, while downloading please ensure to:
+1. Use your API Key which can be made at https://developer.clashroyale.com/
+2. Run main.py and not any other .py file, it will not run as intended.
+3. If a chest.png file appears during the running process, it is used for the resulting application that opens.
+
+Please use these files with care, you can customise the way the application looks in API.py and main.py
+
+Thanks,
+Varun Desai
