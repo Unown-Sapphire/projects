@@ -7,5 +7,7 @@ This is an open source program, while downloading please ensure to:
 
 Please use these files with care, you can customise the way the application looks in API.py and main.py
 
+!-THIS CODE IS NOW DEPRECATED DUE TO THE RECENT UPDATE-!
+
 Thanks,
 Varun Desai
